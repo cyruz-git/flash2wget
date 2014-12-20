@@ -4,7 +4,7 @@
 
 ### Download
 
-The build archive is [here](https://www.dropbox.com/sh/1woiv2cb7f4435b/AABDrhRq31o7Dm59cKNuZBkDa?dl=0).
+The build archive is [here on GitHub](https://github.com/cyruz-git/flash2wget/releases).
 
 ### How it works
 
