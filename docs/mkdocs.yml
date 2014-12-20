@@ -1,0 +1,6 @@
+site_name: flash2wget
+site_author: Ciro Principe
+repo_url: https://github.com/cyruz-git/flash2wget
+pages:
+- ['index.md', 'README']
+theme: united
