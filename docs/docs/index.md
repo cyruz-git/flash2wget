@@ -71,7 +71,7 @@ Example:
 
 ### License
 
-*flash2wget* is released under the terms of the [GNU General Public License](http://www.gnu.org/licenses/). *kscp* and *klink* are released under the MIT license by [9bis software](http://kitty.9bis.net/).
+*flash2wget* is released under the terms of the [GNU Lesser General Public License](http://www.gnu.org/licenses/). *kscp* and *klink* are released under the MIT license by [9bis software](http://kitty.9bis.net/).
 
 ### Contact
 

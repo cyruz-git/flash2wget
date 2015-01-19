@@ -17,6 +17,7 @@ Name | Description
 docs\ | Folder containing the documentation, built with MkDocs.
 tools\ | Folder containing the required tools (*kscp* and *klink*).
 COPYING | GNU General Public License.
+COPYING.LESSER | GNU Lesser General Public License.
 flash2wget.ahk | Main and only source file.
 flash2wget.ico | Icon file.
 flash2wget.ini | Configuration file.
@@ -38,7 +39,7 @@ The documentation site is built with [MkDocs](http://www.mkdocs.org/).
 
 ### License
 
-*flash2wget* is released under the terms of the [GNU General Public License](http://www.gnu.org/licenses/). *kscp* and *klink* are released under the MIT license by [9bis software](http://kitty.9bis.net/).
+*flash2wget* is released under the terms of the [GNU Lesser General Public License](http://www.gnu.org/licenses/). *kscp* and *klink* are released under the MIT license by [9bis software](http://kitty.9bis.net/).
 
 ### Contact
 
