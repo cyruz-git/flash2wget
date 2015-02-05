@@ -6,10 +6,6 @@
 
 The build archive is [here on GitHub](https://github.com/cyruz-git/flash2wget/releases).
 
-### How it works
-
-*flash2wget* works thanks to the *kscp* and *klink* tool from [9bis software](http://www.9bis.net/kitty/). It receives a set of **download parameters** from *FlashGot*, then it copies the **cookie** file to the remote linux server through **scp** with *kscp* and starts a *Wget* job through **ssh** with *klink*.
-
 ### Files
 
 Name | Description
@@ -37,10 +33,4 @@ Select a **Base File** indicating your desired build and click on the **> Conver
 
 The documentation site is built with [MkDocs](http://www.mkdocs.org/).
 
-### License
-
-*flash2wget* is released under the terms of the [GNU Lesser General Public License](http://www.gnu.org/licenses/). *kscp* and *klink* are released under the MIT license by [9bis software](http://kitty.9bis.net/).
-
-### Contact
-
-For hints, bug reports or anything else, you can contact me at [focabresm@gmail.com](mailto:focabresm@gmail.com), open a issue on the dedicated [GitHub repo](https://github.com/cyruz-git/flash2wget) or use the [AHKscript development thread](http://ahkscript.org/boards/viewtopic.php?f=6&t=5659).
+### Full README available [here](docs/docs/index.md)
