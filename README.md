@@ -11,11 +11,11 @@ The build archive is [here on GitHub](https://github.com/cyruz-git/flash2wget/re
 Name | Description
 -----|------------
 docs\ | Folder containing the documentation, built with MkDocs.
+res\ | Folder containing icon resources.
 tools\ | Folder containing the required tools (*kscp* and *klink*).
 COPYING | GNU General Public License.
 COPYING.LESSER | GNU Lesser General Public License.
 flash2wget.ahk | Main and only source file.
-flash2wget.ico | Icon file.
 flash2wget.ini | Configuration file.
 README.md | This document.
 
